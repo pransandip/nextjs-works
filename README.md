@@ -1,1 +1,1 @@
-# nextjs-works
+# NextJS Works
